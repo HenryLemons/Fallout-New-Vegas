@@ -1,3 +1,5 @@
 const myFunction = () => {
-    alert("works");
-  }
+  selectValue = 
+  document.getElementById('#Strength');
+  console.log(selectValue  )  
+ }
