@@ -4,6 +4,6 @@ const myFunction = () => {
   endurance = document.getElementById('Endurance').value;
   charisma = document.getElementById('Charisma').value;
   intellegence = document.getElementById('Intellegence').value;
-  agility = document.getElementById('Luck').value;
+  agility = document.getElementById('Agility').value;
   luck = document.getElementById('Luck').value;
  }
